@@ -1,0 +1,31 @@
+# IngeTrazo Community Extensions Catalog Entry
+# Place this file in `ingelibre/ingetrazo-extensions` under `extensions/inge_groundbox.toml`
+# to publish on https://ingetrazo.com/en/extensiones
+
+id = "inge_groundbox"
+name = "IngeGroundBox"
+version = "1.0.0"
+author = "Hris/KrzysztofCz"
+description = "Advanced Engineering Terrain Modeling (TIN), Sculpting & openBIM for IngeTrazo. Includes From Scratch, From Contours, Smoove, Stamp, Drape, Add Detail, Flip Edge, Cut & Fill calculation (m³), slope analysis heatmap, and IFC tagging."
+repository = "https://github.com/hrisek/IngeGroundBox"
+license = "GPL-3.0-or-later"
+min_ingetrazo_version = "0.5.7"
+screenshot = "ground.jpg"
+tags = [
+    "terrain",
+    "tin",
+    "sandbox",
+    "sculpting",
+    "bim",
+    "ifc",
+    "civil-engineering",
+    "earthworks",
+    "cut-fill",
+    "contours",
+    "topography",
+    "slope-analysis",
+]
+
+# Note: Once a GitHub Release is published, you can also fill:
+# download_url = "https://github.com/hrisek/IngeGroundBox/archive/refs/tags/1.0.zip"
+# sha256 = "278f02b791bd5752962b46f75faadc0febf1bc705a404f64a38f4672ec58bf4a>"
